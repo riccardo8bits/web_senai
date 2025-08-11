@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu primeiro programa</title>
+    <style>
+        body{
+            background-color: rgb(160, 160, 184);
+            color: white; /*Comentário em CSS*/
+            font: normal 20pt Arial;
+        }
+        h1 {
+            color: rgb(255, 212, 22)
+
+
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá, mundo!</h1> <!--Comentario em HTML-->
+    <p>Fala cumpade! De boa?<p>
+    <script>
+        var nome = window.prompt('Digite seu nome: ')
+        var numero1 = Number(window.prompt('Digite o primeiro numero, '+ nome +".")) // O Number.parseInt(transforma em Numero inteiro)
+        var nuemro2 = Number(window.prompt('Digite outro numero, ' + nome +"!") )//Transforma em Numero inteiro
+        var soma = numero1 + nuemro2 //number
+        window.alert(`A soma entre ${numero1} e ${nuemro2} é igual a ${soma}`)
+
+    </script>
+</body>
+</html>
