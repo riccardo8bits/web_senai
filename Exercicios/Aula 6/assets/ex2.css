@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+
+
+}
+
+body {
+    background-color: #f5deb3;
+
+}
+
+ul {
+    background-color: #fafafa;
+
+}
+
+li{
+
+    background-color: gray;
+}
+
+.verde{
+    color: green;}
+
+
+.vermelho{
+    text-align: center;
+    color: red;
+}
+
+.azul{
+    color: blue;
+    text-align: right;
+}
+
+.roxo{
+    color: purple;
+    text-align: center;
+}
+
+.amarelo {
+    color: yellow;
+}
+
+.rosa{
+    color: pink;
+    text-align: center;
+}

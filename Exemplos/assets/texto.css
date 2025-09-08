@@ -1,0 +1,27 @@
+p {
+
+color: red;
+}
+
+
+
+.text_black {
+    color: red;
+    background-color: black;
+    display: inline;
+}
+
+
+#text-maior {
+
+    font-size: 32px;
+    font-family: "Comic Sans MS";
+    display:inline;
+}
+
+#text-maior:hover{
+color: blue;
+    font-size: 32px;
+    font-family: "Comic Sans MS";
+    background-color: yellow;
+}s
