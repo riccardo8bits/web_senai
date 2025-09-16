@@ -1,0 +1,46 @@
+body{
+    background-color: lightblue;
+
+}
+
+.header{
+
+    color: black;
+    text-align: center;
+    height: 100px;
+    background-color: green;
+    width: 100%;
+}
+
+.content{
+
+    color: black;
+    text-align: left;
+    height: 200px;
+    background-color: blueviolet;
+    width: 49.8%;
+    display: inline-block;
+
+
+}
+
+.footer{
+
+    color: black;
+    text-align: center;
+    height: 200px;
+    background-color: yellow;
+    width: 49.8%;
+    display: inline-block;
+
+}
+
+.green2{
+
+        color: black;
+    text-align: center;
+    height: 100px;
+    background-color: green;
+    width: 100%;
+
+}

@@ -1,0 +1,74 @@
+.quadrado1{
+
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+
+
+}
+
+
+.circulo{
+
+    background-color: blue;
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+
+}
+
+.quadrado2{
+
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+    margin: 10px;
+    text-align:  center;
+
+
+}
+
+.retangulo{
+
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 200px;
+    width: 50%;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    background-color: lightblue;
+    text-align: center;
+
+}
